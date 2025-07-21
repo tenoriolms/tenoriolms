@@ -5,4 +5,4 @@ Currently, I work as a research fellow at Embrapa and my projects focus on devel
 
 I'm relatively new to the field of data engineering, but I already have solid experience with data analysis and programming, built upon a strong academic foundation—especially in engineering and applied research.
 
-If you're interested, feel free to explore my [📁 projects here 📁](./portfolio.md).
+If you're interested, feel free to explore my [📁 projects here 📁](./docs/portfolio.md).

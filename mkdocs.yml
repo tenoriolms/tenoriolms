@@ -1,0 +1,29 @@
+site_name: Lhucas Tenorio
+repo_url: https://github.com/tenoriolms/tenoriolms
+
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: black
+      accent: black
+    - scheme: slate
+      primary: white
+      accent: white
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+
+nav:
+  - Portfolio: index.md
+
+
+extra_css:
+  - css/hide_sidebar.css
+  - css/extra.css
+
+extra_javascript:
+  - https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+
