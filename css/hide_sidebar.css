@@ -1,0 +1,8 @@
+/* Oculta a barra de navegação lateral */
+.md-sidebar--primary {
+    display: none;
+}
+/* Expande o conteúdo para ocupar toda a largura */
+.md-main__inner {
+    margin: 0 auto;
+}
