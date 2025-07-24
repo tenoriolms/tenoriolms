@@ -2,8 +2,7 @@
 .md-sidebar--primary {
     display: none;
 }
-
 /* Expande o conteúdo para ocupar toda a largura */
 .md-main__inner {
-    margin-left: 5%;
+    margin: 0 auto;
 }
