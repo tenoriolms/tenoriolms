@@ -58,6 +58,11 @@ body.top {
 		padding: 0 40px;
 	}
 }
+@media (max-width: 400px) {
+	.section-title {
+		font-size: 1.4rem;
+	}
+}
 
 
 
