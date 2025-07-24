@@ -35,12 +35,10 @@ body.top {
 
 
 
-
 .section-title-container {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 1.8rem;
 	margin-bottom: 40px;
 
 }
@@ -50,11 +48,16 @@ body.top {
 	font-weight: 600;
 	font-style: normal;
 	font-size: 1.8rem;
+	text-align: center;
 
 	padding: 0 70px;
 	background: linear-gradient(to right, transparent 0%, white 15%, white 85%, transparent 100%);
 }
-
+@media (max-width: 630px) {
+	.section-title {
+		padding: 0 40px;
+	}
+}
 
 
 
@@ -186,7 +189,6 @@ body.top {
 }
 .cards-md {
 	flex: 1 1 300px;
-	max-width: 45%; 
 	background: white;
 	border: 1px solid rgba(0,0,0,0.13);
 	border-radius: 12px; 
@@ -201,6 +203,7 @@ body.top {
 }
 .cards-md-img img {
 	height: 100%;
+	max-height: 140px;
 	width: auto;
 	margin: 8px auto;
 	
