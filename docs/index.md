@@ -1,11 +1,12 @@
 
 # <div class='section-title-container'><span class='section-title' >Python Projects</span></div>
 
-<section class='page_section' data-bg="url('../assets/bg/bg-python.svg')"></section>
+<!-- <section class='page_section' data-bg="url('../assets/bg/bg-python.svg')"></section> -->
+<section class='page_section' data-bg="url('https://raw.githubusercontent.com/tenoriolms/tenoriolms/refs/heads/main/docs/assets/bg/bg-python.svg')"></section>
 
 ## <div class='section-title-container'><span class='section-title' >Author-Curated Datasets</span></div>
 
-<section class='page_section' data-bg="url('../assets/bg/bg-dna.svg')">
+<section class='page_section' data-bg="url('https://raw.githubusercontent.com/tenoriolms/tenoriolms/refs/heads/main/docs/assets/bg/bg-dna.svg')">
 
 <div class='projectCard_container'>
 	<div class='projectCard_row1'>
@@ -163,7 +164,7 @@
 
 ## <div class='section-title-container'><span class='section-title' >Data Analysis</span></div>
 
-<section class='page_section' data-bg="url('../assets/bg/bg-data.svg')">
+<section class='page_section' data-bg="url('https://raw.githubusercontent.com/tenoriolms/tenoriolms/refs/heads/main/docs/assets/bg/bg-data.svg')">
 
 
 <div class='projectCard_container'>
@@ -317,7 +318,7 @@
 
 ## <div class='section-title-container'> <span class='section-title'>Development</span></div>
 
-<section class='page_section' data-bg="url('../assets/bg/bg-dev.svg')">
+<section class='page_section' data-bg="url('https://raw.githubusercontent.com/tenoriolms/tenoriolms/refs/heads/main/docs/assets/bg/bg-dev.svg')">
 
 <div class='cards-container'>
 

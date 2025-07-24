@@ -4,6 +4,8 @@ repo_url: https://github.com/tenoriolms/tenoriolms
 
 theme:
   name: material
+  logo: assets/img/logo.svg
+  favicon: assets/img/logo.svg
   font:
     text: Fira Sans
   palette:
